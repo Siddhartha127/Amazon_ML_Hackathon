@@ -27,3 +27,7 @@ The YOLOv8 model was fine-tuned on a custom dataset using semi-supervised learni
 - Further YOLOv8 fine-tuning.
 - Improved post-processing for complex cases.
 - Exploration of advanced OCR solutions.
+
+## Contributors
+- [Siddharth Negi](https://github.com/Siddhartha127)
+- [Ujjawal Gusain](https://github.com/UjjawalGusain/)
