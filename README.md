@@ -1,8 +1,8 @@
-# Amazon_ML_Hackathon
+# Amazon_ML_Challenge_2024
 
 # Entity Value Extraction from Product Images
 ## Overview
-This project, created for the Amazon ML Hackathon, extracts entity values (e.g., weight, dimensions) from product images using a combination of YOLOv8 for object detection and PyTesseract for OCR.
+This project, created for the Amazon ML Challenge 2024, extracts entity values (e.g., weight, dimensions) from product images using a combination of YOLOv8 for object detection and PyTesseract for OCR.
 
 ## Key Components
 1. YOLOv8 : Detects relevant product areas in images.
